@@ -1,4 +1,4 @@
-# react-study
+# react-study-example
 
 리액트를 공부하면서 실습한 소스 코드를 Commit 합니다.
 
